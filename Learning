@@ -1,0 +1,20 @@
+client - this is where our application would be
+for react initialization we would be using vite
+{npm init vite@latest}
+tailwindcss {bootstrap kind of thing} go to tailwind create react app to initialize
+npm run dev
+this above all goes to front end
+
+
+
+now lets go to mart contracts and initialize it with npm init -y this will make empty package.josn
+
+difference between .jsx and .js 
+is nothing
+mainly .jsx represent we are writing react code
+
+see here we make different components in src file and export them to app.jsx thats how powerful react is
+
+hold the alt key and double cick the part want to change
+
+hardhat allows us to allow running solididty locally meaning testing our smart contracts locally before deploying   
